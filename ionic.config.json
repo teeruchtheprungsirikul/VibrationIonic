@@ -1,0 +1,8 @@
+{
+  "name": "nextflow-ionic-vibrate",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

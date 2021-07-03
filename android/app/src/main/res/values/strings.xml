@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Appvibrate</string>
+    <string name="title_activity_main">Appvibrate</string>
+    <string name="package_name">Test.Vibrate</string>
+    <string name="custom_url_scheme">Test.Vibrate</string>
+</resources>

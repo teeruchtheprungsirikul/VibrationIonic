@@ -1,0 +1,6 @@
+{
+	"appId": "Test.Vibrate",
+	"appName": "Appvibrate",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
